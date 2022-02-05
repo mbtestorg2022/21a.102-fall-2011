@@ -43,10 +43,39 @@ Students will present their third paper in class.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Weekly reader responses and in-class participation | 10% |
-| Papers (3) | 30% each (total 90%) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly reader responses and in-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers (3)
+{{< tdclose >}}
+{{< tdopen >}}
+30% each (total 90%)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Plagiarism
 ----------
@@ -56,32 +85,345 @@ Plagiarism comes in two forms. The first involves using the words of a source, e
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Study of Ethnic and National Identity: The Stakes, and Why the Stakes Are So High | &nbsp; |
-| 2 | Ethnic Identity I | &nbsp; |
-| 3 | Ethnic Identity II | &nbsp; |
-| 4 | Ethnic Identity III: The Hui | &nbsp; |
-| 5 | Nation and Nationalism I | Video: The Master Race |
-| 6 | Nation and Nationalism II | &nbsp; |
-| 7 | Ethnicity, state, Nation | &nbsp; |
-| 8 | State, Nation, Culture | &nbsp; |
-| 9 | Culture: Definitions | First draft of first paper due |
-| 10 | Ethnic Conflict I | Video: Gacaca |
-| 11 | Ethnic Conflict II | First paper returned with comments |
-| 12 | Race I | &nbsp; |
-| 13 | Race II | Revision of first paper due |
-| 14 | Race III | Video: Stolen Generations: Genocide and the Aborigines |
-| 15 | Ethnic Identity, Nationalism and Gender | First draft of second paper due |
-| 16 | Ethnic Identity, State, and Sexuality | &nbsp; |
-| 17 | Religion, Ethnicity, the Nation | Second paper handed back with comments |
-| 18 | Language and Culture, Ethnicity, Race | &nbsp; |
-| 19 | Culture Recovery | Video: White Shamans and Plastic Medicine Men Final draft of second paper due |
-| 20 | Culture: Appropriations, Heritage, "Selling Culture" | First draft of third paper due (optional) |
-| 21 | Human Rights, Collective Rights | &nbsp; |
-| 22 | New Social Movements | Optional first draft of third paper handed back with comments |
-| 23 | Transnationalism, Globalization and Culture | &nbsp; |
-| 24 | The State: Hegemony and Push-back | Third paper due |
-| 25 | Summing Up | Video: Without Due Process: Japanese Americans and World War II |
-| 26 | Student Reports | Student presentations |
-| 27 | Student Reports (cont.) | Student presentations (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Study of Ethnic and National Identity: The Stakes, and Why the Stakes Are So High
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Identity I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Identity II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Identity III: The Hui
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Nation and Nationalism I
+{{< tdclose >}}
+{{< tdopen >}}
+Video: The Master Race
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nation and Nationalism II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnicity, state, Nation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+State, Nation, Culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Culture: Definitions
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of first paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Conflict I
+{{< tdclose >}}
+{{< tdopen >}}
+Video: Gacaca
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Conflict II
+{{< tdclose >}}
+{{< tdopen >}}
+First paper returned with comments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Race I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Race II
+{{< tdclose >}}
+{{< tdopen >}}
+Revision of first paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Race III
+{{< tdclose >}}
+{{< tdopen >}}
+Video: Stolen Generations: Genocide and the Aborigines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Identity, Nationalism and Gender
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Identity, State, and Sexuality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Religion, Ethnicity, the Nation
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper handed back with comments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Language and Culture, Ethnicity, Race
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Culture Recovery
+{{< tdclose >}}
+{{< tdopen >}}
+Video: White Shamans and Plastic Medicine Men Final draft of second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Culture: Appropriations, Heritage, "Selling Culture"
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of third paper due (optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Human Rights, Collective Rights
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+New Social Movements
+{{< tdclose >}}
+{{< tdopen >}}
+Optional first draft of third paper handed back with comments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Transnationalism, Globalization and Culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The State: Hegemony and Push-back
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Summing Up
+{{< tdclose >}}
+{{< tdopen >}}
+Video: Without Due Process: Japanese Americans and World War II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Reports
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Student Reports (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
