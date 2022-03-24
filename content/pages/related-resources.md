@@ -312,7 +312,7 @@ Supplementary Reading: The Question of Biologically Defined Race
 ----------------------------------------------------------------
 
 *   Leroi, Armand Marie. "[A Family Tree in Every Gene](http://www.nytimes.com/2005/03/14/opinion/14leroi.html)," _New York Times_, March 14, 2005.
-*   Daly, Emma. "DNA Test Gives Students Ethnic Shocks," _New York Times_, April 13, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nytimes.com/2005/04/13/nyregion/dna-tells-students-they-arent-who-they-thought.html))
+*   Daly, Emma. "DNA Test Gives Students Ethnic Shocks," _New York Times_, April 13, 2005. ([PDF](https://www.nytimes.com/2005/04/13/nyregion/dna-tells-students-they-arent-who-they-thought.html))
 
 Supplementary Reading: Ethno-racial Profiling
 ---------------------------------------------
